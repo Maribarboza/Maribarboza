@@ -1,5 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRriCXPW7
--ØVXTQdaFX0f2qEvk3k-XQHjCM7Q&usqp=CAU">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LqTckzNQpxh1Xr95MphLZrQZwhr9kjOShA&usqp=CAU">
 <h1>Seja bem-vindo(a)</h1> 
 <h2> Meu nome é Mariana e por aqui irei compartilhar os meus aprendizados durante alguns cursos de linguagens de programação </h2>
 <p>Eu comecei a aprender programação esse ano, e já possuo conhecimento em HTML e em CSS e agora estou aprendendo JavaScript.</p>

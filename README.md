@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic .com/images?q=tbn:ANd9GcRriCXPW7
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRriCXPW7
 -ØVXTQdaFX0f2qEvk3k-XQHjCM7Q&usqp=CAU">
 <h1>Seja bem-vindo(a)</h1> 
 <h2> Me chamo Mariana  e por aqui irei compartilhar os meus aprendizados durante alguns cursos de linguagens de programação </h2>

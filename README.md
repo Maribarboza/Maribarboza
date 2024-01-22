@@ -1,20 +1,4 @@
-@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>3D Animation</title>
-    </head>
-    <body>
-        <div class="stage" style="width: 120px; height: 120px;">
-            <div class="cubespinner">
-                <div class="face1">Mariana</div>
-                <div class="face2">🖥️</div>
-                <div class="face3">📱</div>
-                <div class="face4">👩🏻‍💻</div>
-                <div class="face5">Barboza</div>
-            </div>
-        </div>
-    </body>
+1 <img src="https://encrypted -tbn0.gstatic.com/images?q=tbn: ANd9GcS0LqTckzNQpxh1Xr95MphLZrQZwhr9kj0ShA&usqp= CAU">
 </html>
 <h1>Seja bem-vindo(a)</h1> 
 <h2>Meu nome é Mariana e por aqui irei compartilhar os meus aprendizados durante alguns cursos de linguagens de programação </h2>

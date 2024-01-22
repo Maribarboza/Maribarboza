@@ -7,8 +7,6 @@
 
 <p>Eu comecei a aprender programação esse ano, e já possuo conhecimento em HTML e em CSS e agora estou aprendendo JavaScript.</p
 
-5 <p> </p>
-
-6 <a href="https://github.com/Maribarboza" target="
+<a href="https://github.com/Maribarboza" target="
 
 _blank">GitHub</a>

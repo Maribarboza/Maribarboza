@@ -4,10 +4,5 @@
 
 <h2>Meu nome é Mariana e por aqui irei com partilhar os meus aprendizados durante algu ns cursos de linguagens de programação </h2
 
-<p>Eu comecei a aprender programação esse ano, e já possuo conhecimento em HTML e em CSS e agora estou aprendendo JavaScript.</p
-
-<p> </p>
-
-<a href="https://github.com/Maribarboza" target="
-
-_blank">GitHub</a>
+<p>Eu comecei a aprender programação esse ano, e já possuo conhecimento em HTML e em CSS e agora estou aprendendo JavaScript.</p>
+<a href="https://github.com/Maribarboza" target="_blank">GitHub</a>

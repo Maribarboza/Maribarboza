@@ -2,7 +2,8 @@
 <a href="https://github.com/Maribarboza">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maribarboza&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
-
+<img loading="lazy" height="180em" 
+ Src="https://github-readme-stats.vercel.app/api?username=Maribarboza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true I
  <h1>Seja bem-vindo(a)</h1>
 <h2> Meu nome é Mariana e por aqui irei com partilhar os meus aprendizados durante algun s cursos de linguagens de programação </h2
 

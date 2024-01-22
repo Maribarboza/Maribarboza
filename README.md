@@ -10,5 +10,5 @@
 
 <p>Eu comecei a aprender programação esse ano, e já possuo conhecimento em HTML e em CSS e agora estou aprendendo JavaScript.</p>
 <a href="https://github.com/Maribarboza" target="_blank">GitHub</a>
-<div
+</div>
 <a href="https://br.linkedin.com/in/marianabarboza11 " target="_blank">LinkedIn</a>

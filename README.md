@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Maribarboza/Maribarboza/edit/master/README.md/blob/output/github-contribution-grid-snake.svg)
  <h1>Seja bem-vindo(a)</h1>
 <h2> Meu nome é Mariana e por aqui irei com partilhar os meus aprendizados durante algun s cursos de linguagens de programação </h2
 

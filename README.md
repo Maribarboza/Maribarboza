@@ -1,4 +1,4 @@
-img src="https://encrypted -tbn0.gstatic.com/images?q=tbn: ANd9GcS@LqTckzNQpxh1Xr95MphLZrQZwhr9kj0ShA&usqp= CAU">
+<img src="https://encrypted -tbn0.gstatic.com/images?q=tbn: ANd9GcS@LqTckzNQpxh1Xr95MphLZrQZwhr9kj0ShA&usqp= CAU">
 </html>
 <h1>Seja bem-vindo(a)</h1> 
 <h2>Meu nome é Mariana e por aqui irei compartilhar os meus aprendizados durante alguns cursos de linguagens de programação </h2>

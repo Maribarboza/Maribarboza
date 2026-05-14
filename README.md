@@ -16,16 +16,16 @@
 
 ### Meu nome é **Mariana Barboza** | UX Designer & Front-end Developer
 
-Sou formada pelo **Google UX Design Professional Certificate**, onde desenvolvi habilidades sólidas em pesquisa de usuário, prototipagem de alta fidelidade e design centrado no ser humano. Atualmente, foco em unir a estética do design com a funcionalidade do desenvolvimento web.
+Concluí recentemente o curso **Foundations of User Experience (UX) Design** oferecido pelo Google através do Coursera. Utilizo meus conhecimentos técnicos e de design para construir interfaces funcionais, acessíveis e centradas na experiência do usuário.
 
 *   🎓 **Certificação:** Google UX Design Professional Certificate.
-*   💻 **Tech Stack:** HTML5, CSS3, JavaScript e Figma.
-*   🚀 **Foco Atual:** Desenvolvimento de interfaces acessíveis e interativas.
+*   💻 **Habilidades:** HTML5, CSS3, JavaScript e Prototipagem no Figma.
+*   🚀 **Projetos:** Desenvolvimento web com foco em soluções sociais e usabilidade.
 
 ---
 
 ### 📂 Projeto em Destaque: Guia Social BH
-Este projeto reflete minha capacidade de resolver problemas reais através do design e código. É um hub centralizado para consulta de benefícios e unidades de assistência social.
+Este projeto é um hub centralizado desenvolvido para facilitar o acesso a informações sobre benefícios e unidades de assistência social em Belo Horizonte.
 *   **🔗 Link do Projeto:** [Acesse o Guia Social BH](https://maribarboza.github.io/projeto-guia-social/index.html)
 
 ---
@@ -38,4 +38,3 @@ Este projeto reflete minha capacidade de resolver problemas reais através do de
 </div>
 
 ---
-

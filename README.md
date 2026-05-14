@@ -1,29 +1,42 @@
 # Olá, bem-vindo(a) ao meu perfil! 👋
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Formada_pelo_Google-blue?style=for-the-badge&logo=google" />
+</p>
+
 ### Mariana Barboza | UX Designer & Front-end Developer
 
-Concluí recentemente o curso **Foundations of User Experience (UX) Design** pelo Google. Utilizo meus conhecimentos técnicos e de design para construir interfaces funcionais, acessíveis e focadas na melhor experiência para o usuário.
+Concluí o curso **Foundations of User Experience (UX) Design** pelo Google em 28 de abril de 2026. Foco em criar interfaces que unem estética e usabilidade.
 
 ---
 
-### 🛠️ Tecnologias
-- **Web:** HTML5, CSS3, JavaScript
-- **Design:** Figma (Prototipagem de alta fidelidade)
+### 🛠️ Toolbox (Habilidades)
+
+| Design | Desenvolvimento |
+| :--- | :--- |
+| ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| UX Research | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| Prototipagem | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 
 ---
 
-### 📊 Minhas Linguagens
-Como estou focada em Front-end, meu perfil é composto principalmente por:
-- **HTML:** 50%
-- **CSS:** 30%
-- **JavaScript:** 20%
+### 📊 Estatísticas de Código
+
+<table border="0">
+ <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maribarboza&layout=compact&theme=dracula&hide_border=true" width="300px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Maribarboza&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" width="400px" />
+    </td>
+ </tr>
+</table>
 
 ---
 
 ### 📂 Projeto em Destaque
-- **[Guia Social BH](https://maribarboza.github.io/projeto-guia-social/index.html):** Hub de informações sobre assistência social em Belo Horizonte, desenvolvido com foco em acessibilidade e usabilidade.
-
----
+- **[Guia Social BH](https://maribarboza.github.io/projeto-guia-social/):** Projeto focado em acessibilidade para cidadãos de Belo Horizonte.
 
 ### 📫 Contato
-- [LinkedIn](https://br.linkedin.com/in/marianabarboza11)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/marianabarboza11)

@@ -1,4 +1,4 @@
- # Olá, bem-vindo(a) ao meu perfil! 👋
+# Olá, bem-vindo(a) ao meu perfil! 👋
 
 ### Mariana Barboza | UX Designer & Front-end Developer
 
@@ -12,9 +12,11 @@ Concluí recentemente o curso **Foundations of User Experience (UX) Design** pel
 ---
 
 ### 📊 Estatísticas
-![Estatísticas de Mariana](https://github-readme-stats.vercel.app/api?username=Maribarboza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Maribarboza&layout=compact&theme=dracula)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maribarboza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Mariana" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maribarboza&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</p>
 
 ---
 

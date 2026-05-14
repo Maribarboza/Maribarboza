@@ -2,7 +2,7 @@
 
 ### Mariana Barboza | UX Designer & Front-end Developer
 
-Concluí recentemente o curso **Foundations of User Experience (UX) Design** pelo Google. Utilizo meus conhecimentos técnicos e de design para construir interfaces funcionais e acessíveis.
+Concluí recentemente o curso **Foundations of User Experience (UX) Design** pelo Google através do Coursera. Utilizo meus conhecimentos técnicos e de design para construir interfaces funcionais, acessíveis e focadas na melhor experiência para o usuário.
 
 ---
 
@@ -12,14 +12,16 @@ Concluí recentemente o curso **Foundations of User Experience (UX) Design** pel
 ---
 
 ### 📊 Estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maribarboza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas de Mariana](https://github-readme-stats.vercel.app/api?username=Maribarboza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maribarboza&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Maribarboza&layout=compact&theme=dracula)
 
 ---
 
 ### 📂 Projeto em Destaque
-- **[Guia Social BH](https://maribarboza.github.io/projeto-guia-social/index.html):** Hub de informações sobre assistência social em Belo Horizonte focado em usabilidade.
+- **[Guia Social BH](https://maribarboza.github.io/projeto-guia-social/index.html):** Um hub centralizado para consulta de benefícios e unidades de assistência social em Belo Horizonte, focado em usabilidade.
+
+---
 
 ### 📫 Contato
 - [LinkedIn](https://br.linkedin.com/in/marianabarboza11)
